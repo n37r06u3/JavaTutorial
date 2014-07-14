@@ -2,7 +2,7 @@
 
 我们在idea看到提示 print() 方法里 可以放置其他类型的数据
 
-![README](README_images\README.png)
+![README](README_images/README.png)
 
 boolean 布尔值
 
